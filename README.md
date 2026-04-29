@@ -27,7 +27,7 @@ Despite increasing public awareness and reforms, there is limited clarity on:
 
 This project aims to answer these questions using data-driven insights.
 
-![Dashboard Walkthrough](WhatsApp%20Image%202026-04-29%20at%2020.45.18.jpeg)
+![Dashboard Walkthrough](dashboard_image)
 
 
 ## Tech Stack
