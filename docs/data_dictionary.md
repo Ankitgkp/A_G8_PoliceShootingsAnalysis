@@ -1,12 +1,5 @@
 # Data Dictionary
 
-## How To Use This File
-
-1. Add one row for each column used in analysis or dashboarding.
-2. Explain what the field means in plain language.
-3. Mention any cleaning or standardization applied.
-4. Flag nullable columns, derived fields, and known quality issues.
-
 ## Dataset Summary
 
 | Item | Details |
