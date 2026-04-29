@@ -125,11 +125,11 @@ Improve reporting consistency across states and departments.
 
 | Team Member | Primary Contribution Area | Key Deliverables |
 | :--- | :--- | :--- |
-| **Adithya & Ranvendra** | [cite_start]ETL / Data Engineering [cite: 258] | [cite_start]01_extraction.py, 02_cleaning.py, raw-to-clean pipeline [cite: 258] |
-| **Ranvendra & Ankit** | [cite_start]Exploratory Data Analysis (EDA) [cite: 258] | [cite_start]03_eda.py, exploratory charts and visual summaries [cite: 258] |
-| **Harshita & Vriha** | [cite_start]Statistical Analysis [cite: 258] | [cite_start]04_statistical_analysis.py, regression and group comparison outputs [cite: 258] |
-| **Aryan & Chinmay** | [cite_start]KPI Design & Final Load [cite: 258] | [cite_start]05_Final_Load.py, KPI column definitions, final_data.csv [cite: 258] |
-| **Chinmay & Harshita** | [cite_start]Dashboarding & Reporting [cite: 258] | [cite_start]Tableau dashboard, final project report [cite: 258] |
+| **Adithya & Ranvendra** | ETL / Data Engineering | 01_extraction.py, 02_cleaning.py, raw-to-clean pipeline |
+| **Ranvendra & Ankit** | Exploratory Data Analysis (EDA)  | 03_eda.py, exploratory charts and visual summaries  |
+| **Harshita & Vriha** | Statistical Analysis  | 04_statistical_analysis.py, regression and group comparison outputs  |
+| **Aryan & Chinmay** | KPI Design & Final Load  | 05_Final_Load.py, KPI column definitions, final_data.csv  |
+| **Chinmay & Harshita** | Dashboarding & Reporting | Tableau dashboard, final project report |
 
  Key Learnings
 
