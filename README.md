@@ -138,19 +138,3 @@ Chinmay & Harshita	Tableau Dashboards & Reporting
 * Importance of bias and fairness in data
 * Translating data into policy-level insights
 
-
-## Project Structure
-
-├── data/
-│   └── final_dataset.csv
-├── notebooks/
-│   ├── data_cleaning.ipynb
-│   ├── eda.ipynb
-│   └── analysis.ipynb
-├── dashboards/
-│   └── tableau_files
-├── reports/
-│   └── final_report.pdf
-└── README.md
-
-⸻
