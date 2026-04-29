@@ -121,15 +121,12 @@ R4. Better Data Standardization
 
 Improve reporting consistency across states and departments.
 
-
-## Team G8 – Contribution Breakdown
-
-Member	Contribution
-Adithya & Ranvendra	Data Engineering & ETL Pipeline
-Ranvendra & Ankit	Exploratory Data Analysis (EDA)
-Harshita & Vriha	Statistical Analysis & Modeling
-Aryan & Chinmay	KPI Design & Data Structuring
-Chinmay & Harshita	Tableau Dashboards & Reporting
+## Member  Contribution
+Adithya & Ranvendra,"ETL, Data Engineering & Cleaning Pipeline "
+Ranvendra & Ankit,Exploratory Data Analysis (EDA) 
+Harshita & Vriha,Statistical Analysis & Regression Outputs 
+Aryan & Chinmay,KPI Design & Final Data Loading 
+Chinmay & Harshita,Tableau Dashboarding & Project Reporting 
 
  Key Learnings
 
